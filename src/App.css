@@ -1,0 +1,7 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #86f154;
+  font-size: 120px;
+}
